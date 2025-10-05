@@ -37,7 +37,7 @@ Applied forecasting and financial analytics to improve budgeting and inventory m
 
 🍴 **TrueFork**  
 🔗 [GitHub Repo](https://github.com/stephaniepatriciaans/TrueFork) | [Live Demo](https://stephaniepatriciaans.github.io/TrueFork/)  
-Full-stack web app using NLP and Yelp API to summarize restaurant reviews into real-time pros/cons, reducing user decision time by ~50%.
+Full-stack web app using NLP and Food.com API to summarize restaurant reviews into real-time pros/cons, reducing user decision time by ~50%.
 
 🏦 **Loan Charge-Offs Prediction**  
 🔗 [GitHub Repo](https://github.com/stephaniepatriciaans/Project-Loan-Charge-Offs)  

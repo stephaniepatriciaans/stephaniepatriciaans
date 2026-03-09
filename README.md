@@ -1,5 +1,5 @@
 👋 Hi, I'm **Stephanie Patricia Anshell** (@stephaniepatriciaans)  
-🎓 Data Science Major | 💰 Finance Minor | 💼 Data Science Intern @ IDX Exchange  
+🎓 Data Science Major | 💰 Finance Minor 
 📍 University of California, San Diego | 🌏 Bilingual: English (Fluent) & Indonesian (Native) 
 
 ---
@@ -14,7 +14,7 @@ From forecasting product demand to analyzing macroeconomic trends, I thrive on t
 
 💼 **Experience**
 
-💹 **Data Science Intern — IDX Exchange (2025–Present)**  
+🏗️ **Data Science Intern — IDX Exchange (2025–2025)**  
 Supporting analytics and research for a leading digital asset exchange.  
 - Building dashboards and visualizations for market and user metrics  
 - Performing exploratory and predictive analyses on trading data  
@@ -80,7 +80,7 @@ When I’m not coding or analyzing data, I enjoy exploring new cafes and restaur
 ---
 
 🤝 **Open To**
-- Data science or quantitative research internships  
+- Data science or quantitative research full-time  
 - Fintech, analytics, and research collaborations  
 - Mentorship and opportunities in applied data science  
 

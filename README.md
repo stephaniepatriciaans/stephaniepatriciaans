@@ -1,5 +1,5 @@
 👋 Hi, I'm **Stephanie Patricia Anshell** (@stephaniepatriciaans)  
-🎓 Data Science Major | 💰 Finance Minor 
+🎓 Data Science Major | 💰 Finance Minor   
 📍 University of California, San Diego | 🌏 Bilingual: English (Fluent) & Indonesian (Native) 
 
 ---

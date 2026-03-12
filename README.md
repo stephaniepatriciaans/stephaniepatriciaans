@@ -90,6 +90,7 @@ When I’m not coding or analyzing data, I enjoy exploring new cafes and restaur
 📧 [sanshell@ucsd.edu](mailto:sanshell@ucsd.edu) 
 💼 [LinkedIn](https://linkedin.com/in/stephaniepatriciaanshell) 
 💻 [GitHub](https://github.com/stephaniepatriciaans)
+🌐 [Personal Website](https://github.com/stephaniepatriciaans/portofolio)
 
 ---
 
